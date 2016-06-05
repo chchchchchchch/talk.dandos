@@ -2,96 +2,104 @@
 
 Hello.
 
-I'd like to thank the organisers of this festival
-for the invitation and you for your attention for the 
-next 45 minutes.
+% S: Hello
 
-Within this lecture I'm trying to somehow
-draw the path that led to here and maybe find out what's next.
+I'd like to thank the organisers of this festival for the
+invitation and you for your attention for the next 45 minutes.
+
+Within this lecture I'm trying to somehow draw the path that
+led to here and maybe find out what could be next.
 
 % DISCLAIMER:
-% I'm going to use the term free software not open source (Stallman Quote)
-% although I'm trying to be not dogmatic about this.
+% ----------
+% I'm going to use the term free software not open source,
+% although I'm trying to be not über dogmatic about this.
+% Anyway I think it is an important subject that should not
+% be dismissed, especially in this times of 'open-everything'.
+
+% S: Stallman Quote
+
 
 ----
 
-My first experience with code to create something visual
-was through making HTML pages. WYSIWYG editors[^]{in my case
-MicrosoftTM FrontpageTM on Windows NT} where quite bad at this time.
+My first experience with code to create something visual was
+through making HTML pages. The output of WYSIWYG editors[^]{in
+my case MicrosoftTM FrontpageTM on Windows NT} was quite bad
+at this time.
 
 % S: WYSIWYG
 
-So even for somebody having no clue, opening a blank file in
-a text editor and write the HTML code yourself was an appropriate
-alternative. There were a lot of resources to learn about the
-basics, the rest could come easily by _trial and error_.
+So even for somebody having no clue, opening a blank file in a
+text editor and write the HTML code yourself was an appropriate
+alternative. There were a lot of resources to learn about the basics,
+the rest could come easily by _trial and error_.
 
-Through HTML I also experienced a specific culture for the first time.
-With HTML the source code was always just one mouseclick away.
+Through HTML I also experienced a specific culture for the first
+time. With HTML the source code was always just one mouseclick away.
 
 % S: Rightclick -> 'Quelltext anzeigen'
 
 Rightclick -> 'Quelltext anzeigen' and see how things work.
 
-Consequently my first annoying encounter with proprietary
-mentality was Macromedia Flash. While it was a quite inspiring interface
-to create vector graphics it also introduced
-'locking things up' in an environment were the access to
-source code was formerly a standard. This must have
-been around 2000, the same time I first came in touch with the
-writings of Florian Cramer and I remember how impressed I was
-by his text: 'Vom freien Gebrauch von Einsen und Nullen'
+Consequently my first annoying encounter with proprietary mentality
+was Macromedia Flash. While it was a quite inspiring interface
+to create vector graphics it also introduced 'locking things up'
+in an environment were the access to source code was formerly a
+standard. This must have been around 2000, the same time I first
+came in touch with the writings of Florian Cramer and I remember
+how impressed I was by his text:
+'Vom freien Gebrauch von Einsen und Nullen'
 
-Fast forward. Around 2006 I got introduced to GNU/Linux and
-'Unix Culture'. While I was interested in DIY culture and
-alternative copyrights for some time, I did not really deal with
-free software and its technical aspects.
 
-I had a quite rough initiation to GNU/Linux by renting
-our own webserver in a 'Rechenzentrum'. I got talked into
-this by a colleague and as I was not in general against the idea
-of self-empowerment we just did it. I barely touched
-free software before, but my colleague insisted that he'd know
-what he is doing.[^]{Today I've serious doubts about that}
-Anyway we now had a computer at some remote location,
-running Debian,
-accessible only over terminal and making fundamental mistakes
-meant to call someone in the 'Rechenzentrum' and ask them to
-reboot your machine. In retrospect this harsh take-off also had
-the effect that my relation to free software started with different
-expectations.[^]{and maybe different dissapointments}
-Different than what seems obvious if you install a GNU/Linux Distribution as
-a replacement for Mac OSX and want it to 'just work alike'.
+Fast forward. Around 2006 I got introduced to GNU/Linux and 'Unix
+Culture'. While I had been interested in DIY culture and alternative
+copyrights for some time, I did not really deal with free software
+and its technical aspects.
 
-My second introduction came from another direction and was 
-less harsh but not less influential.
-At the audio department of the Kunsthochschule für Medien Köln Martin Rumori
-had set up a series of seminars around the culture and
-cult of Unix and GNU/Linux and free software in general.
-It is also within this context where my first major project
-in the field of free software graphic design started.
+I had quite a rough initiation to GNU/Linux by renting our own
+webserver in a 'data center'. I got talked into this by a colleague
+and as I was not in general against the idea of self-empowerment
+we just did it. I barely touched free software before, but my
+colleague insisted that he'd know what he is doing.[^]{Today I've
+serious doubts about that} Anyway we now had a computer at some
+remote location, running Debian, accessible only over terminal
+and making fundamental mistakes meant to call someone in the
+'data center' and ask them to reboot your machine. In retrospect
+this harsh take-off also had the effect that my relation to free
+software started with different expectations.[^]{and maybe different
+dissapointments} Different than what seems obvious if you install a
+GNU/Linux Distribution as a replacement for Mac OSX and want it to
+'just work alike'.
+
+My second introduction came from another direction and was less
+harsh but not less influential. At the audio department of the
+Kunsthochschule für Medien Köln Martin Rumori had set up a series
+of seminars around the culture and cult of Unix and GNU/Linux and
+free software in general. It is also within this context where my
+first major project in the field of free software graphic design
+started.
 
 In 2007 I created the 'key visual' for the Linux Audio Conference,
-a annual conference of Linux Audio Developers, that was hosted at the
-KHM in early 2008.
-The 'key visual' was a hyperconnective machine/instrument/environment,
-which was very much inspired by the idea that within Linux culture 
-users are encouraged to think and make their own applications.
+a annual conference of Linux Audio Developers, that was hosted
+at the KHM in early 2008. The 'key visual' was a hyperconnective
+machine/instrument/environment, which was very much inspired by
+the idea that within Linux culture users are encouraged to think
+and make their own applications.
 
-% PD SCREENSHOT
+% S: PD SCREENSHOT
 
 The software started on paper and actually I didn't know any
-programming language. The only thing I knew that came close
-to coding was the terminal, so I decided to write bash scripts,
-which are basically text files that collect the commands
-that you would normally enter on your commandline interface.
+programming language. The only thing I knew that came close to
+coding was the terminal, so I decided to write bash scripts, which
+are basically text files that collect the commands that you would
+normally enter on your commandline interface.
 
-Posters were generated from a pool of modular
-illustrations, producing not one poster, but a lot
-of variations. The idea was to approach graphicwise the diverse
-and playful and absurd combinations made possible through a open
-modular system.
+Posters were generated from a pool of modular illustrations,
+producing not one poster, but a lot of variations. The idea was to
+approach graphicwise the diverse and playful and absurd combinations
+made possible through a open modular system.
 
+% S:
 % Unix was not designed to stop you from doing stupid things,
 % because that would also stop you from doing clever things.
 % https://en.wikiquote.org/wiki/Unix
@@ -99,12 +107,15 @@ modular system.
 The following years brought more graphic design projects
 all, more or less based, on the same idea:
 
-_design rules to design posters
+ design rules to design posters
  instead of
- design posters_
+ design posters
 
+% S:
 % MAKE ART
 % LAC 2009
+% LIWOLI
+% ...
 
 All these projects are closely connected to free software culture.
 
@@ -115,41 +126,45 @@ All these projects are closely connected to free software culture.
 
 % PERSONAL SOFTWARE
 
-While all source code is published under a free software license I actually
-never expected anyone to reuse these projects 'as is'.
-Why? The software within these projects is very specific and not very elaborate.
-Although the source code is available, it is nothing to just download,
-install and run.[^]{As far as I know}
+While all source code is published under a free software license
+I actually never expected anyone to reuse these projects 'as
+is'. Why? The software within these projects is very specific and
+not very elaborate. Although the source code is available, it is
+nothing to just download, install and run.[^]{As far as I know}
 
-But it was never my ambition to develop general-purpose
-software.  While I was interested in creating processes and infrastructures
-as part of my work, I was not really interested to make tools for a generic set of "users".
-In this sense it is really _personal software_.
-The intention was to have an example, make a point that helps to imagine what
-could be possible. Make and experience and
-show interesting possibilities beside the convenient mononculture I became
-used to when it comes to digital design tools.
+But it was never my ambition to develop general-purpose software.
+While I was interested in creating processes and infrastructures
+as part of my work, I was not really interested to make tools for
+a generic set of "users". In this sense it is really _personal
+software_. The intention was to have an example, make a point that
+helps to imagine what could be possible. Make and experience and
+show interesting possibilities beside the convenient mononculture
+I became used to when it comes to digital design tools.
 
 
 % TOWARDS SITUATED SOFTWARES
 
-2012 I worked on a project for the Libre Graphics Meeting 2013
-at Medialab Prado. The brief was to create a visual identity for
-the meeting, which would reflect and capture voices of the community.
-We developed a online interface, where people could ask or answer questions.
-These conversations were collected and used to generate posters to promote the event.
+2012 I worked on a project for the Libre Graphics Meeting 2013 at
+Medialab Prado. The brief was to create a visual identity for the
+meeting, which would reflect and capture voices of the community.
+We developed a online interface, where people could ask or answer
+questions. These conversations were collected and used to generate
+posters to promote the event.
 
-In 2014 I started together with Constant from Brussels to work on 
-the book "The best, biggest ...". The book collects interviews made by Constant,
-over a period of 10 years, all connected to the subject of Libre Graphics. 
-For the book we had the ambition
-to create a setup that would work different from the workflows we were used to.
-This means different from a standard editorial process, were design has to happen
-after everything else is finished.
-The content is edited collaboratively online, written as a lightweight
-markup language. Content is pulled into a 'local software setup'
-where a pdf file (ready to print) is generated. The 'local setup'
-could be installed on any standard GNU/Linux computer (and even OSX worked).
+
+In 2014 I started together with Constant from Brussels to work on
+the book "I think that conversations are the best, biggest thing
+that Free Software has to offer its user". The book collects
+interviews made  by Constant, over a period of 10 years, all
+connected to the subject of Libre Graphics.  For the book we had
+the ambition to create a setup that would work different from the
+workflows we were used to. This means different from a standard
+editorial process, were design has to happen after everything else
+is finished. The content is edited collaboratively online, written
+as a lightweight markup language. Content is pulled into a 'local
+software setup' where a pdf file (ready to print) is generated.
+The 'local setup' could be installed on any standard GNU/Linux
+computer (and even OSX worked).
 
 Contributing to the editing was as easy as opening a website and
 also the installation of the software was feasible. I must admit
@@ -157,45 +172,44 @@ that in the end I was quite happy with the setup, that allowed
 contributions through a lot of different layers and complexities,
 from proofreading to replicating the whole infrastructure.
 
-These last 2 projects are different from my earlier work.
-They're not completely automated processes anymore,
-but they provide some sort of (easy-to-use) interface.
-This non-generic, temporary,
-maybe over-specific form of interaction is,
-for me,
-right now,
-a very interesting space.
+
+These last 2 projects are different from my earlier work. They're
+not completely automated processes anymore, but they provide some
+sort of (easy-to-use) interface.
+This non-generic, temporary, maybe over-specific form of interaction
+is, for me, right now, a very interesting space.
 
 
-% REFER TO SITUATED
+% REFER TO SITUATED (FINALLY)
 
 I'm sorry to say that, but over the years it became increasingly
-hard for me to imagine
-how free software might compete with the expectations produced by the 
-versatility and convenience of proprietary software. At the same time
-I'm quite shocked how unquestioned something like the Creative CloudTM
-can happen. But that reality of _software as a central service_ also
-helped me to think about what maybe makes free software for me exciting.
-Could this be a vision of software that is inseparable from
-doing by arguing that all softwares are "situated in activity bound
-to social, cultural and physical contexts"[@XXX]. Softwares that allow
-making on the fly rather than the storage and retrieval of _software
-as a service_. Softwares that allow partial perspectives and limited
-functionality -- "_not partiality for its own sake but, rather, for the
-sake of the connections and unexpected openings_".[@haraway:1988:situated]
-Softwares of "interpretation, translation, stuttering, and the partly 
+hard for me to imagine how free software might compete with
+the expectations produced by the versatility and convenience
+of proprietary software. At the same time I'm quite shocked how
+unquestioned something like the Creative CloudTM can happen. But
+that reality of _software as a centralised service_ also helped
+me to think about what maybe makes free software for me exciting.
+Could this be a vision of software that is inseparable from doing
+by arguing that all softwares are "situated in activity bound to
+social, cultural and physical contexts"[@XXX]. Softwares that
+allow making on the fly rather than the storage and retrieval
+of _software as a service_. Softwares that allow partial
+perspectives and limited functionality -- "_not partiality
+for its own sake but, rather, for the sake of the connections
+and unexpected openings_".[@haraway:1988:situated] Softwares
+of "interpretation, translation, stuttering, and the partly
 understood."[@haraway:1988:situated]
 
 % > Situated cognition is a theory that posits that knowing is inseparable
 % > from doing by arguing that all knowledge is situated in activity bound
 % > to social, cultural and physical contexts.
-% 
+%
 % > [...] situativity theorists suggest
 % > a model of knowledge and learning
 % > that requires thinking on the fly
 % > rather than the storage and retrieval
 % > of conceptual knowledge.
-% 
+%
 %   en.wikipedia.org/wiki/Situated_cognition
 
 % > We seek those ruled by partial sight and limited voice -- not partiality
@@ -203,116 +217,50 @@ understood."[@haraway:1988:situated]
 % > unexpected openings situated knowledges make possible.
 % > [@haraway:1988:situated]
 
-% > Feminism love another science: the sciences and politics of interpretation,
-% > translation, stuttering, and the partly understood.
+% > Feminism love another science: the sciences and politics of
+% > interpretation, translation, stuttering, and the partly understood.
 % > [@haraway:1988:situated]
 
 
-I'd like to show an 'everyday' example of 'something situated'.
-It is not something that was modelled after some premises,
-it just happened to be.
-The markup dialect that was used for the 'conversations' book is based on
-the widespread open standard markdown, but allows to extend this standard 
-with custom 'instructions'. These 'instructions' are
-simple lines of text that trigger specific actions
-when translating from source code to some other format.
+`.mdsh` is an _everyday_ example of 'something situated'. This
+markup dialect that was used for the _Conversations_ book is based
+on the widespread open standard markdown, but allows to extend this
+standard with custom 'instructions'. These 'instructions' are simply
+lines of text that trigger specific actions when translating from
+source code to some other format. It is not something that was
+modelled after some premises, it more or less happened to be.
 
-% SHOW MDSH FLOWS
+% S: MDSH FLOWS
 
-It is situated as it was developed for a specific
-group, at a specific time, for a specific task.
-The 'instructions' are not predefined but may be
-developed on the fly. And it is
-situated once more as the definition of 'instructions'
-explicitely happen in the local context of the transformer.
+It is situated as it was developed for a specific group, at a
+specific time, for a specific task. The 'instructions' are not
+predefined but may be developed on the fly. And it is situated once
+more as the definition of 'instructions' explicitely happen in the
+local context of the transformer.
 
 
 % FINISH
 
-Free software has long a tradition and experience to empower
-reuse and adaptibility. And not as some cosmetic corrections
-but through all layers of complexity, from its interfaces
-to its very inner workings. This culture makes it feasible
-to even think of making something like 'situated softwares'.
+Free software has long a tradition and experience to empower reuse
+and adaptibility. And not as some cosmetic corrections but through
+all layers of complexity, from its interfaces to its very inner
+workings. This culture makes it feasible to even think of making
+something like 'situated softwares'.
 
-'Situated softwares' may be anything from a small
-script to rename your files to a collaborative 
-writing setup.
+'Situated softwares' may be anything from a small script to rename
+your files to a collaborative writing setup.
 
-'Situated softwares' can explicitely ignore any
-ambitions towards universal usability. 
+'Situated softwares' can explicitely ignore any ambitions towards
+universal usability.
 
 And the start is not at all learning to code.
 The start is too think about software again.
 
 
-
-% WHAT DO YOU THINK?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----
 
-EXPLAIN (?)
-
-- HTML
-- WYSIWYG
-- GNU/Linux
-- MARKDOWN
-- TERMINAL
+Opinions?
+Questions?
+Answers?
 
 
------------------------------
-
-% Forget about usability as right here and now we think makebility.
-% Let's forget about best practises and just practise.
-% Let's redefine what counts as software.
-
-% ignores any aim for neutrality
-% without slipping into relativity (vgl. Haraway)
-
-
-For me 'doing design' was always closely connected to the
-materiality of things and technology. I like to work with
-specific qualities and resistances of different tools and
-materials. And this is something I don't want to miss for
-'the digital'.
-
-
-A perspective I find very exciting.
-
-
-It may amplify again the diversification of tools and practises.
-Temporarily, locally, 
-% too specific to fail.
-
-% It may be made yourself or your friends
-
-
-> Design and publish websites without coding
-> ------------------------------------------
-> With Adobe Muse, you can create complete websites for desktop, tablet,
-> and mobile without writing a single line of code. It's integrated with
-> Adobe's own hosting service, so getting your site up and live is quick
-> and seamless
-
-> Design for iPad
-> ---------------
-> With Adobe InDesign® and Digital Publishing Suite,
-> Single Edition, you can create an unlimited number
-> of iPad apps — without writing code.
-
-> http://www.adobe.com/products/creativecloud.html

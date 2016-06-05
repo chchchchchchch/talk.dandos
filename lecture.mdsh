@@ -1,177 +1,196 @@
+SITUATED SOFTWARES
+==================
+
+% INTRODUCTION
+
+I first experienced code to create something visual through
+making HTML pages. WYSIWYG editors[^]{in my case MicrosoftTM
+FrontpageTM on Windows NT} where quite bad at this time.
+So even for somebody having no clue
+opening your HTML page in a text editor and edit
+the source code manually was a valuable alternative.
+There were a lot of resources to learn  a little bit about the basics, the rest could
+come 'learning by doing'.
+
+With HTML I also got used to a procedure
+that is quite common for a lot of digital workflows,
+from writing code to doing animation: DO, WAIT, JUDGE. DO AGAIN.
+
+DO: make (or make changes to) something
+WAIT: until the computer processed your input
+JUDGE: see the result
+
+For me that's interesting in so far, that from very early on,
+I never expected some kind of _'real-time' WYSIWYG_ experience
+when creating things with a computer. _'Real-time' WYSIWYG_
+in the sense of '_create things exactly as they will be_'.
+I'm actually quite curious what this could be.
+
+Along HTML I also experienced another culture.
+With HTML the source code always was just one mouseclick away.
+Rightclick -> 'Quelltext anzeigen' and see how things work.
+Consequently my first annoying experience with proprietary
+mentality was Flash. While being a quite inspirational application
+to create graphics for the web it also introduced
+'locking things up' in an environment were the availabilty of
+source code was formerly a standard.
+
+Some years later, around 2007, I got introduced to GNU/Linux and
+'Unix Culture' and that's were my interest in tinkering and code
+expanded. 
+
+I had a quite rough initiation to GNU/Linux by renting
+our own webserver in a 'Rechenzentrum'. I got talked into
+this by a collegue and as I was not in general against the idea
+of self-empowerment we just did it. I barely touched
+Free Software before, but my collegue insisted that he'd know
+what he is doing. Today I've serious doubts about that.
+Anyway we now had a computer somewhere at a remote location,
+accessible only over terminal and making fundamental mistakes
+meant to call someone in the 'Rechenzentrum' and ask them to
+reboot your machine. In retrospect this harsh take-off might
+be the cause why never had the expectations and dissapointments
+that seem obvious if you install a GNU/Linux Distribution as
+a replacement for OS X and want it to 'just work alike'.
+
+My second introduction came from another direction and was 
+a bit less abrupt but at least as inspiring.                                  "nachhaltig fesselnd exciting zukunftsweisend prägend".
+At the audio department of the KHM Martin Rumori
+had set up a series of 'angebote' around the culture and
+cult of Unix and GNU/Linux and free software in general.
 
 
-  experimental setups
-  in the sense of not knowing
-  how and what will work?
+% PERSONAL SOFTWARE
 
-  create through connecting.
-  temporary architectures.
+My first projects in the field of f/l/os graphic design
+came from the same direction. In 2007 I developed a key visual
+for the Linux Audio Conference, a annual conference of Linux
+Audio Developers, that was hosted at the KHM in early 2008.
+The 'Motiv' was hyperconnective machine/instrument/environment,
+which was very much inspired by the idea that 
+users are encouraged to think and make their own applications
+... (Cramer Quote)
+Wether or not this seems to make sense and maybe better if not.
+'prevent users from doing ...'
 
-  NON-UNIVERSAL
-  small scale
-  specific.
+
+The graphics were automatically generated from a pool of modular
+illustrations producing not one image, but approaching/get to feel
+the diversity based on this modular system.
+
+The following years brought more graphic design projects all
+more or less connected through the idea:
+
+_design rules to design poster
+ instead of
+ design posters_
+
+These projects were all closely connected to f/l/os culture:
+
+1. made for f/l/os initiatives
+2. using f/l/os software only
+3. being f/l/os themselves
+
+While published under f/l/os licenses I actually never expected
+anyone to reuse these projects 'as is'. Why? The software within 
+these projects is very specific. Although the source code is
+available, it is nothing to just download, install and run.
+As far as I know. It is not written for some generic use and user,
+but for a very specific. In this way it is really _personal software_.
+
+And to be honest: it never my ambition to create general-purpose software.
+The intention is to have an example that helps to imagine was
+could be possible. Not to have 'just another' convenient solution.
+And this is the most exciting part for me: to make and experience and
+show interesting possibilities beside the mononculture we're used
+to when it comes to digital design tools.
+
+
+% TOWARDS SITUATED SOFTWARE
+
+2012 I worked on a project for the Libre Graphics Meeting
+at Medialab Prado. The brief was to create a visual identity for
+the meeting which would reflect and capture voices of the community.
+We developed a simple interface where people could ask or answer questions.
+These conversations were collected and used to generate posters.
+
+In 2014 I started together with Constant from Brussels to make
+a book of interviews, collected over a period of 10 years all
+connected to the subject of Libre Graphics. We had the ambition
+to create a workflow that would work different from what we were used to.
+This means different from the standard
+editorial process, were design has to happen after everything else
+is finished.
+The content is edited collaboratively online, written as a lightweight
+markup language. Content is pulled into a 'local software setup'
+where a pdf file (ready to print) is generated. The 'local setup'
+could be installed on a standard GNU/Linux computer (even OSX worked).
+
+Contributing to the editing was as easy as opening a website and
+also the installation of the software was feasible. I must admit
+that in the end I was quite happy with the setup that allowed
+contributions through a lot of different layers and complexities,
+from proofreading to replicating the whole infrastructure.
+
+The last 2 projects are different from my earlier work.
+They're not completely automated processes but they provide
+some sort of interface. While they're still far from 'general-purpose'
+software there is a specific form of interaction.
+This non-generic, temporary, maybe over-specific form
+of interaction is,
+for me,
+right now,
+a very interesting space.
+
+
+SITUATED SOFTWARE ?
+-------------------
+
+> [...] situativity theorists suggest
+> a model of knowledge and learning
+> that requires thinking on the fly
+> rather than the storage and retrieval
+> of conceptual knowledge.
+> [*](http://en.wikipedia.org/wiki/Situated_cognition)
+
+_a model of software 
+ that requires making on the fly
+ rather than the storage and retrieval
+ of generic software._
+
+f/l/os has long tradition and experience to empower
+reuse and adaptibility. And not as some cosmetic correction
+but through all layers of complexity. From its interfaces
+to its very inner workings. This is not the answer to
+any question but maybe a good start. Thinking of software
+not as something universal but as something very personal.
+Or to start with: Think of software at all!
+It is software that is structuring a lot of our modern lifes.
+At the same time we want software to be invisible,
+to 'just work'. But it is often the moment when things
+stop working when you realise how they did.
+Therefore I'd regard it as a feature that f/l/os does not
+'just work'.
+
+
+
+
+
+WRITE TWO, THREE, MANY SOFTWARES.
+% READ TWO, THREE, MANY SOFTWARES.
+
+
+
+
+
+
 
 
 ----
 
-SITUATED SOFTWARES
-==================
+EXPLAIN (?)
 
-I've been doing Free Software Design Projects
-since 2007. HOW? WHY?
-
-
-
-Came from diy and alternative copyright practise.
-this means: paper, scissors, glue got increasingly
-escorted by 'writing code', where 'writing' was more
-sort of 'copy,paste,modify'. My first introduction
-to write code to create something visual was creating
-html pages. With html the source code was always just
-one mouseclick away. Rightclick -> 'Quelltext anzeigen'
-and see how things work. Consequently my first annoying
-experience with a proprietary software was Flash.
-While being a quite inspirational application to create
-graphics for the internet it also introduced 'locking things up'
-in an environment were the availabilty of source code was
-formerly a standard.
-
-Around 2007 I got introduced to GNU/Linux and
-'Unix Culture' and that's were my interest in
-tinkering and code expanded. 
-
-Projects as Amalgam of different f/l/os software
-finding alternative ways to what you would normally
-realize through 'Desktop Publishing'.
-
-
-- Generative Graphics
-  -------------------
-
-  - LAC 2008
-  - make art
-
-
-  writing software to create graphics
-  = make rules to create graphic
-    instead of create graphics
-  = more or less autonomous processes
-
-%   WHY?
-% - To 'Design by Rules' I find interesting
-%   in general, since it makes me think about rules.
-%  (Karl Gerstner)
-% - fascinated by potential surprise, keeps it 
-%   interesting for myself.
-
-
-
-
-
-
-
-  SITUATED SOFTWARE
-  -----------------
-
-> Situated knowledge is knowledge
-> specific to a particular situation
-> [*](https://en.wikipedia.org/wiki/Knowledge#Situated_knowledge)
-
-  What could this mean for software?
-
-  = creating (micro-)practises for a specific situation
-  = specific software for a specific moment
-
-
-
-  PREREQUISITES (pragmatic, what f/l/os got to do with it)
-  -------------
-
-  To create software for a specific situtation
-  you need to be able to create software.
-  
-  only through f/l/os this is feasible at all.
-  
-- adapt existing software
-- connect existing software
-- redefine existing software
-
-  with f/l/os we have a culture of prototyping,
-  adapting and workarounds.
-
-  And it gets even more interesting through open hardware
-  and the option to build interfaces, embedded devices, ...
-
-
-
-
-  WHAT I FIND INTERESTING ABOUT THIS
-  ----------------------------------
-
-- radical localisation
-- challenge assumptions of how things ought to be done
-- diversification of practises 
-- specific (<-> universal vgl. Aicher)
-- infrastructure not as a commodity
-- I want to have custom interfaces
-
-- this is an interesting space 
-  as it is not yet (completely) occupied
-  probably will never be occupied
- (as it is de-standardisation)
-- it's hard to substitue something that 'just works'
- (the creative cloud)
-
-
-- Technology is increasingly invading all areas of our lifes.
-- It has never been easier to give form to technology
-- Nevertheless we're heading towards homogenization
-  facebook, creative cloud, ...
-
-  a problem of (free) software is complexity.
-  one idea to deal with this is the simplification
-  of its interfaces. While I find a general simplification
-  problematic I'm interested in a situated simplification.
-  General communication reduced to 'like' (not even 'don't like')
-  is not exactly the ideal scenario for me.
-  but I CAN imagine situations
-  where I want nothing else but a 'YES' and 'NO' button.
-  The idea of localisation of software and personalisation
-  is not at all any new. It's been there from the very dawn
-  of 'Personal Computing' but at the moment 'software as a service'
-  and 'cloud computing' is really pushing into the opposite direction. 
-
-  Multiplication of interfaces?
-
-
-  IN PRACTISE (what is/could this be?)
-  -----------
-
-- details from conversations/lgm
-- promiscous pipelines
-
-
-
-
-
-
-
-
-
-
-
-  THE END
-  -------
-
-  Embrace particularity!
-  Embrace failure!
-  Just do it!
-
-
-
-
-
-
-
-
+- HTML
+- WYSIWYG
+- GNU/Linux
 

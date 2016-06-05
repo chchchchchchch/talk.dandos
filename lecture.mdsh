@@ -2,7 +2,7 @@
 
 To start: My name is Christoph Haag.
 I grew up in a small pre-alpine village.
-I studied at the Department of Hybrid Space.
+I studied at the KHM/Department of Hybrid Space.
 I have no background in computer science at all. 
 
 My first experience with code to create something visual
@@ -14,16 +14,16 @@ the source code manually was a valuable alternative.
 There were a lot of resources to learn about the basics,
 the rest could come 'learning by doing'.
 
-Through HTML I first experienced a specific culture.
+Through HTML I also experienced a specific culture for the first time.
 With HTML the source code always was just one mouseclick away.
 Rightclick -> 'Quelltext anzeigen' and see how things work.
-Consequently my first annoying experience with proprietary
+Consequently my first annoying encounter with proprietary
 mentality was Macromedia Flash. While being a quite inspirational application
 to create graphics for the web it also introduced
 'locking things up' in an environment were the availabilty of
 source code was formerly a standard.
 
-Fast forward, around 2007, I got introduced to GNU/Linux and
+Fast forward. Around 2006, I got introduced to GNU/Linux and
 'Unix Culture' and that's were my interest in tinkering and code
 expanded.
 
@@ -32,11 +32,11 @@ our own webserver in a 'Rechenzentrum'. I got talked into
 this by a colleague and as I was not in general against the idea
 of self-empowerment we just did it. I barely touched
 free software before, but my colleague insisted that he'd know
-what he is doing. (Today I've serious doubts about that.)
+what he is doing.[^]{Today I've serious doubts about that}
 Anyway we now had a computer at some remote location,
 accessible only over terminal and making fundamental mistakes
 meant to call someone in the 'Rechenzentrum' and ask them to
-reboot your machine. In retrospect this harsh take-off had
+reboot your machine. In retrospect this harsh take-off also had
 the effect that I grew into different expectations (and maybe different dissapointments).
 Different than what seems obvious if you install a GNU/Linux Distribution as
 a replacement for Mac OSX and want it to 'just work alike'.
@@ -60,7 +60,7 @@ users are encouraged to think and make their own applications.
 
 % ... (Cramer Quote, LISL)
 
-Wether or not this seems to make sense and maybe even better if not.
+Wether or not this seems to make sense, or maybe even better if not.
 
 % 'prevent users from doing ...'
 
@@ -164,9 +164,12 @@ explicitely happen in the local context of the transformer.
 
 'situated software' may be anything from a small
 script to rename your files to a collaborative 
-writing setup. It explicitely ignores any
-'Anspruch auf Allgemeingültigkeit'. And it pushes
-the diversification of tools and practises.
+writing setup.
+
+'Situated software' explicitely ignores any
+ambitions towards universal truth. % 'Anspruch auf Allgemeingültigkeit'
+% without slipping into relativity (vgl. Haraway)
+And at the same time it amplifies the diversification of tools and practises.
 A perspective I find very exciting.
 
 
@@ -178,13 +181,14 @@ f/l/os has long a tradition and experience to empower
 reuse and adaptibility. And not as some cosmetic corrections
 but through all layers of complexity, from its interfaces
 to its very inner workings. This culture makes it feasible
-to even think of something like 'situated software'.
+to even think of making something like 'situated software'.
 
+% vgl. cli,... critical engineering
 
 For me 'doing design' was always closely connected to the
 materiality of things and technology. I like the specific
 qualities and resistances of different tools and materials.
-And this is something I don't want to miss for digital processes.
+And this is something I don't want to miss for 'the digital'.
 
 
 
@@ -273,4 +277,11 @@ You do not have to write your own version of Photoshop.
 Make infrastructures and interfaces for specific uses
 that willently ignore the myriad of things
 that might be also interesting.
+
+% I'd consider also writing your own website as a situated practise.
+% It is situated in the sense that it deals with our 'situation', ideas and practise
+% it allows to develop tools and practise in parallel.
+% not fitting thorugh some generic content management system
+% Also this sounds a bit anachronistic ...
+% Reduction as opportunity.
 

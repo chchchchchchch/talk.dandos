@@ -5,6 +5,8 @@ I grew up in a small pre-alpine village.
 I studied at the KHM/Department of Hybrid Space.
 I have no background in computer science at all. 
 
+
+
 My first experience with code to create something visual
 was through making HTML pages. WYSIWYG editors[^]{in my case
 MicrosoftTM FrontpageTM on Windows NT} where quite bad at this time.
@@ -18,10 +20,13 @@ Through HTML I also experienced a specific culture for the first time.
 With HTML the source code always was just one mouseclick away.
 Rightclick -> 'Quelltext anzeigen' and see how things work.
 Consequently my first annoying encounter with proprietary
-mentality was Macromedia Flash. While being a quite inspirational application
+mentality was Macromedia Flash. While it was a quite inspirational application
 to create graphics for the web it also introduced
 'locking things up' in an environment were the availabilty of
-source code was formerly a standard.
+source code was formerly a standard. This must
+be around 2000 and at the same time I also came in touch with the
+writings of Florian Cramer and as I remember I was very impressed
+by his text: 'Vom freien Gebrauch von Einsen und Nullen'
 
 Fast forward. Around 2006, I got introduced to GNU/Linux and
 'Unix Culture' and that's were my interest in tinkering and code
@@ -42,35 +47,43 @@ Different than what seems obvious if you install a GNU/Linux Distribution as
 a replacement for Mac OSX and want it to 'just work alike'.
 
 My second introduction came from another direction and was 
-a less harsh but at least as 'prägend'.
+less harsh but at least as influential.
 At the audio department of the Kunsthochschule für Medien Köln Martin Rumori
-had set up a series of 'angebote' around the culture and
+had set up a series of seminars around the culture and
 cult of Unix and GNU/Linux and free software in general.
-It is within this context where my first major project
+It is also within this context where my first major project
 in the field of f/l/os graphic design came into being.
 
 
 
-In 2007 I created the 'key visual' for the _Linux Audio Conference_,
+In 2007 I created the 'key visual' for the Linux Audio Conference,
 a annual conference of Linux Audio Developers, that was hosted at the
 KHM in early 2008.
 The 'key visual' was a hyperconnective machine/instrument/environment,
 which was very much inspired by the idea that within Linux culture 
 users are encouraged to think and make their own applications.
 
-% ... (Cramer Quote, LISL)
+% PD SCREENSHOT
+
+% The command line user interface provides functions, not applications;
+% methods, not solutions, or: nothing but a bunch of plug-ins to be
+% promiscuously plugged into each other. The application can be built,
+% and the solution invented, by users themselves.
+% http://freeze.sh/_/2015/clipoetics/
 
 Wether or not this seems to make sense, or maybe even better if not.
 
-% 'prevent users from doing ...'
+% Unix was not designed to stop you from doing stupid things,
+% because that would also stop you from doing clever things.
+% https://en.wikiquote.org/wiki/Unix
 
 Graphics were automatically generated from a pool of modular
 illustrations producing not one image, but a endless number
 of variations, approaching the diversity made possible through
 modular systems.
 
-The following years brought more graphic design projects all
-more or less connected through the same idea:
+The following years brought more graphic design projects
+all, more or less based, on the same idea:
 
 _design rules to design posters
  instead of
@@ -79,7 +92,7 @@ _design rules to design posters
 % MAKE ART
 % LAC 2009
 
-These projects were all closely connected to f/l/os culture:
+All these projects are closely connected to f/l/os culture.
 
 1. made for f/l/os projects
 2. using f/l/os software
@@ -88,8 +101,9 @@ These projects were all closely connected to f/l/os culture:
 
 % PERSONAL SOFTWARE
 
-While published under f/l/os licenses I actually never expected
-anyone to reuse these projects 'as is'. Why? The software within 
+While all source code is published under f/l/os licenses I actually
+never expected anyone to reuse these projects 'as is'.
+Why? The software within 
 these projects is very specific. Although the source code is
 available, it is nothing to just download, install and run.
 As far as I know. It is not written for some generic use and user,
@@ -98,9 +112,9 @@ but for a very specific. In this way it is really _personal software_.
 It was never my ambition to develop general-purpose
 software.  While I was interested in creating processes and infrastructures
 as part of my work, I was not really interested to make tools for a generic set of "users".
-The intention was to have an example, that helps to imagine what
+The intention was to have an example, make a point that helps to imagine what
 could be possible. Make and experience and
-show interesting possibilities beside the mononculture we became
+show interesting possibilities beside the convenient mononculture we became
 used to when it comes to digital design tools.
 
 
@@ -162,20 +176,8 @@ explicitely happen in the local context of the transformer.
 
 
 
-'situated software' may be anything from a small
-script to rename your files to a collaborative 
-writing setup.
-
-'Situated software' explicitely ignores any
-ambitions towards universal truth. % 'Anspruch auf Allgemeingültigkeit'
-% without slipping into relativity (vgl. Haraway)
-And at the same time it amplifies the diversification of tools and practises.
-A perspective I find very exciting.
-
 
 % FINISH
-
-And here we're coming back to f/l/os.
 
 f/l/os has long a tradition and experience to empower
 reuse and adaptibility. And not as some cosmetic corrections
@@ -183,13 +185,16 @@ but through all layers of complexity, from its interfaces
 to its very inner workings. This culture makes it feasible
 to even think of making something like 'situated software'.
 
-% vgl. cli,... critical engineering
 
-For me 'doing design' was always closely connected to the
-materiality of things and technology. I like the specific
-qualities and resistances of different tools and materials.
-And this is something I don't want to miss for 'the digital'.
+'Situated softwares' may be anything from a small
+script to rename your files to a collaborative 
+writing setup.
 
+'Situated softwares' may explicitely ignore any
+ambitions towards universal usability. 
+
+And the start is not at all learning to code.
+The start is too think about software again.
 
 
 
@@ -211,77 +216,27 @@ EXPLAIN (?)
 
 -----------------------------
 
+% Forget about usability as right here and now we think makebility.
+% Let's forget about best practises and just practise.
+% Let's redefine what counts as software.
 
-% The option to redefine a piece
-% of software is also fundamental to my idea of 'situated
-% softwares'. I like the idea of minimal, _situated interfaces_.
-% But if the interface is all that is accessible, this
-% is not a good idea. 
-% 
-% There's an important difference
-% between hiding and making inaccessible.
-% % esr taoup p.151
-
-% situated softwares allows 'bad practises'
-% (oversimplification, hardwiring, instability,...)
-% and even failure. 
-% This is possible as the 'situated software' does 
-% neither need to work for everybody and nor
-% endure the rest of time.
+% ignores any aim for neutrality
+% without slipping into relativity (vgl. Haraway)
 
 
-Software that is structuring a lot of our modern lifes.
-At the same time we want software to be invisible, to 'just work'.
-I think part of this desire is the sheer complexity ...
-So for me it helps to think of making software not as something universal
-but as something that can be very personal and situative.
-You do not have to write your own version of Photoshop.
-
-% At the same time I adjusted to a procedure
-% that is quite common for a lot of digital workflows,
-% from writing code to doing animation:
-% 
-% DO, WAIT, JUDGE. (DO AGAIN.)
-% 
-% DO: make (or make changes to) something
-% WAIT: until the computer processed your input
-% JUDGE: see the result
-% 
-% Getting used to this iterative cycles from very early on,
-% is maybe the reason why
-% I had lower expectations regarding some kind of _'real-time' WYSIWYG_ experience
-% _'Real-time' WYSIWYG_
-% in the sense of '_create things (exactly) as they will be_'.
-% Thinking about animation, I'm actually quite curious what this could be.
-
-% WHAT IS SOFTWARE
-% There is software, we have to deal with software
-% on a daily basis (from your washing to ... )
-% WHAT EXISTS? /OS++
-% FLOSS IS SOFTWARE THAT IS FREE ...
-% IT IS AN IMPORTANT RIGHT TO HAVE ACCESS
-% TO THE SOFTWARE RUNNING ON THEIR DEVICES
-% Tinkering??? Counter Culture
-% Design Background?
+For me 'doing design' was always closely connected to the
+materiality of things and technology. I like to work with
+specific qualities and resistances of different tools and
+materials. And this is something I don't want to miss for
+'the digital'.
 
 
-> [...] situativity theorists suggest
-> a model of knowledge and learning
-> that requires thinking on the fly
-> rather than the storage and retrieval
-> of conceptual knowledge.
-> [*](http://en.wikipedia.org/wiki/Situated_cognition)
+A perspective I find very exciting.
 
 
+It may amplify again the diversification of tools and practises.
+Temporarily, locally, 
+% too specific to fail.
 
-Make infrastructures and interfaces for specific uses
-that willently ignore the myriad of things
-that might be also interesting.
-
-% I'd consider also writing your own website as a situated practise.
-% It is situated in the sense that it deals with our 'situation', ideas and practise
-% it allows to develop tools and practise in parallel.
-% not fitting thorugh some generic content management system
-% Also this sounds a bit anachronistic ...
-% Reduction as opportunity.
+% It may be made yourself or your friends
 

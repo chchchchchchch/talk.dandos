@@ -1,9 +1,26 @@
+
+
+  experimental setups
+  in the sense of not knowing
+  how and what will work?
+
+  create through connecting.
+  temporary architectures.
+
+  NON-UNIVERSAL
+  small scale
+  specific.
+
+
+----
+
 SITUATED SOFTWARES
 ==================
 
-
 I've been doing Free Software Design Projects
 since 2007. HOW? WHY?
+
+
 
 Came from diy and alternative copyright practise.
 this means: paper, scissors, glue got increasingly
@@ -25,57 +42,36 @@ tinkering and code expanded.
 
 Projects as Amalgam of different f/l/os software
 finding alternative ways to what you would normally
-realize through 'Desktop Publishing'
+realize through 'Desktop Publishing'.
 
 
-- generative graphics
+- Generative Graphics
   -------------------
 
   - LAC 2008
   - make art
 
+
   writing software to create graphics
-  = acting more or less autonomous according
-    according to the defintion of a set of rules
+  = make rules to create graphic
+    instead of create graphics
+  = more or less autonomous processes
 
-  = make rules to make things
-    instead of make things
-
-   WHY?
- - To 'Design by Rules' I find interesting
-   in general, since it makes me think about rules.
-   (Karl Gerstner)
- - fascinated by potential surprise
-
-
-
-  The following is more an observation than a plan.
- 
-  from my personal pov the 'automated processes'
-  were limited. or better: I became increasigly
-  annoyed to define universal rulesets.
-  either the rules are perfect or you constantly
-  have to deal with 'exceptions to the rules'.
-
-  I've been moving away from this fully-automated
-  processes to the setup of environments where
-  software acts as glue connecting software as parts. 
-  
-- LGM 2013
-- Conversations
+%   WHY?
+% - To 'Design by Rules' I find interesting
+%   in general, since it makes me think about rules.
+%  (Karl Gerstner)
+% - fascinated by potential surprise, keeps it 
+%   interesting for myself.
 
 
 
-  
-  f/l/os culture has been an integral part of all
-  this projects and this project were exciting.
-  
-  Anyway:
 
-  Where is this leading to?
 
-  SITUATING SOFTWARE
-  ------------------
+
+
+  SITUATED SOFTWARE
+  -----------------
 
 > Situated knowledge is knowledge
 > specific to a particular situation
@@ -177,241 +173,5 @@ realize through 'Desktop Publishing'
 
 
 
-
-
-
-
-
-
-
-
-
-----
-
-  WHERE TO START?
-  --------------
-
-- this sounds not un-interesting!
-  what can I do?
-- as a commissioner: commission
-                     be open
-- as a designer: don't be afraid
-  BUT: (and this is a bit sad) to do
-       this on your own requires quite
-       some dedication.
-----
-
-Poetic potential of seeing things differently
-                         (from another perspective)
-                                  unexpected
-using things differently, unexpected. Imagining.
-
--
-
-Open as in open end.
-Unfinished.
-To be continued.
-
--
-
-Recipes not instructions.
-Maps not plans.
-
--
-
-software as a mediator
-
--
-
-SITUATED SOFTWARE -> SITUATED DESIGN (?)
-different to a practise
-"_where scalability, generality, and
-completeness were the key virtues._"
-[*](http://shirky.com/writings/herecomeseverybody/situated_software.html)
-
-Is this relating to the changing
-situation where general communication
-is increasingly performed through means
-of design? Where is handwriting going?
-
-
-
--
-
-You shouldn't expect out-of-the-box solutions, for free,
-like beer and speech, politically more correct than the
-Creative SuiteTM and by the way the next hot shit for
-human-computer interaction.
-% http://www.forkable.eu/memo/2011/workshop/lisl/
-
--
-
-de-universalisation?
--------------------
-
-is there a conclusion?
-
-the diversification of practises
-accepting unconvenience
-
--
-
-
-- SITUATED DESIGN
-  ---------------
-
-- in practise?
-
-  keep situations interesting.
-  keep in mind if you define rules.
-
-  The idiotic practise of complying to
-  design manuals will be anyway solved by software.
-  
-  -  accept the temporary
-  -> accept repetition?
-     repetiton got a bad reputation
-     training vs. conveyor belt?
-
--
-
-  in promptu
-  ad-hoc
-
--
-
-  but got tired of the need of universalism
-  (even worse if you have to define it)
-  = to define exceptions
-    instead of
-    to make exceptions
-
--
-
-https://en.wikipedia.org/wiki/Exception_that_proves_the_rule
-
--
-
- (if I'd have endless resources (time,money,knowledge)
-  this would not be a problem)
--
-
-  PROBLEMS
-  --------
-
-  - how to deal with errors and hick-ups
-
-  this is largely solved by the temporary character
-  and the scale of the projects.
-
-- CONCLUSIO
-  ---------
-
-  f/l/os is really exciting to develop something new.
-  it's extremely tiring if try to do things that you're
-  already used to ...
-
--
-
-  WHAT'S KEEPING THIS BACK?
-  ------------------------
-
-- assumptions of how things ought to be done
-- convenience
-- 
--
-
-https://en.wikipedia.org/wiki/Cultural_diversity
-
--
-
-[*](http://shirky.com/writings/herecomeseverybody/situated_software.html)
-
-> designed for use by a specific social group,
-> rather than for a generic set of "users"
-
-
-> Making form-fit software for a small group of users has typically
-> been the province of banks and research labs -- because of the costs involved
-
-> We've been killing conversations about software with "That won't scale"
-> for so long we've forgotten that scaling problems aren't inherently fatal.
-> The N-squared problem is only a problem if N is large, and in social
-> situations, N is usually not large. A reading group works better with 5
-> members than 15; a seminar works better with 15 than 25, much less 50,
-> and so on.
-
-> If by programmer we mean "people who write code" instead of
-> "people who are paid to write code", the number of programmers
-> is going to go up, way up, by 2015, even though many of the
-> people using perl and JavaScript and Flash don't think of
-> themselves as programmers.
-
-> Situated software isn't a technological strategy so much as an attitude
-> about closeness of fit between software and its group of users,
-> and a refusal to embrace scale, generality or completeness as
-> unqualified virtues.
-
-> Allowing the user to customize the interface of a Web site might
-> make it more useful, but it doesn't make it any more personal than
-> the ATM putting your name on the screen while it spits out your money.
-
-make the computer personal again?
-
-> Situated software, by contrast, doesn't need to be personalized
-> -- it is personal from its inception.
-
-> Small, purpose-built apps have always existed, of course -- 
-> learning BASIC used to be a rite of passage for PC owners,
-> and data intensive institutions like investment banks and
-> research labs write software for small groups of users.
-> Now, though, the combination of good tools, talented users
-> and the internet as a social stage makes the construction
-> of such software simpler, the quality of the result better,
-> and the delivery to the users as simple as clicking a link.
-> The design center of a dozen users, so hard to serve in the
-> past, may become normal practice.
-
-> Expectations of longevity, though, are the temporal version
-> of scale -- we assume applications should work for long
-> periods in part because it costs so much to create them.
-> Once it's cheap and easy to throw together an application,
-> though, that rationale weakens. Businesses routinely ask
-> teams of well-paid people to put hundreds of hours of work
-> creating a single PowerPoint deck that will be looked at in
-> a single meeting. The idea that software should be built for
-> many users, or last for many years, are cultural assumptions
-> not required by the software itself.
-
-> This, strangely, is a kind of progress,
-> not because situated software will replace
-> other kinds of applications, but because it
-> mostly won't. For all the value we get out
-> of the current software ecosystem, it doesn't
-> include getting an application built for a handful
-> of users to use for a few months. Now, though,
-> I think we're starting to see a new software niche,
-> where communities get form-fit tools for very particular
-> needs, tools that fail most previous test of design quality
-> or success, but which nevertheless function well, because
-> they are so well situated in the community that uses them.
-
-de-generic, de-generalise
-scalability?
-
--
-
-> Knowledge generated through experience is called knowledge
-> "a posteriori", meaning afterwards. The pure existence of
-> a term like "a posteriori" means this also has a counterpart.
-> In this case, that is knowledge "a priori", meaning before.
-> [*](https://en.wikipedia.org/wiki/Knowledge#Situated_knowledge)
-
--
-
-> In computing, a situational application is "good enough"
-> software created for a narrow group of users with 
-> a unique set of needs.
-> [*](https://en.wikipedia.org/wiki/Situational_application)
 
 

@@ -2,32 +2,30 @@
 
 Hello.
 
-% S: Hello
-
 I'd like to thank the organisers of this festival for the
 invitation and you for your attention for the next 45 minutes.
 
-Within this lecture I'm trying to somehow draw the path that
-led to here and maybe find out what could be next.
+For this lecture I decided to try to aproximate the path
+that led to here and maybe this helps to find a perspective
+for future developments.
 
-% DISCLAIMER:
-% ----------
+% A SHORT DISCLAIMER:
+% ------------------
 % I'm going to use the term free software not open source,
-% although I'm trying to be not über dogmatic about this.
+% although in general I try to be not über dogmatic about this.
 % Anyway I think it is an important subject that should not
-% be dismissed, especially in this times of 'open-everything'.
-
-% S: Stallman Quote
-
+% be dismissed, especially in these times of 'open everything'.
 
 ----
 
-My first experience with code to create something visual was
-through making HTML pages. The output of WYSIWYG editors[^]{in
-my case MicrosoftTM FrontpageTM on Windows NT} was quite bad
-at this time.
+Not being among the very first generations of 'users'
+graphical interfaces were part of my first encounters with
+the computer. In general but also as a tool for creation.
 
-% S: WYSIWYG
+My first experience with code to create something visual came
+through making HTML pages. The output of WYSIWYG editors[^]{in
+my case MicrosoftTM FrontpageTM on Windows NT} was not exactly
+awesome at this time.
 
 So even for somebody having no clue, opening a blank file in a
 text editor and write the HTML code yourself was an appropriate
@@ -37,26 +35,20 @@ the rest could come easily by _trial and error_.
 Through HTML I also experienced a specific culture for the first
 time. With HTML the source code was always just one mouseclick away.
 
-% S: Rightclick -> 'Quelltext anzeigen'
-
 Rightclick -> 'Quelltext anzeigen' and see how things work.
 
 Consequently my first annoying encounter with proprietary mentality
 was Macromedia Flash. While it was a quite inspiring interface
-to create vector graphics it also introduced 'locking things up'
+to work with vector graphics it also introduced 'locking things up'
 in an environment were the access to source code was formerly a
-standard. This must have been around 2000, the same time I first
-came in touch with the writings of Florian Cramer and I remember
-how impressed I was by his text:
-'Vom freien Gebrauch von Einsen und Nullen'
+standard.
 
+Fast forward. Around 2006 I got introduced to GNU/Linux. 
+I had been interested in DIY culture and alternative copyrights
+for some time and I had enjoyed reading about free software,
+but I never actually used it.
 
-Fast forward. Around 2006 I got introduced to GNU/Linux and 'Unix
-Culture'. While I had been interested in DIY culture and alternative
-copyrights for some time, I did not really deal with free software
-and its technical aspects.
-
-I had quite a rough initiation to GNU/Linux by renting our own
+My introduction to GNU/Linux was quite abrupt, namely by renting a
 webserver in a 'data center'. I got talked into this by a colleague
 and as I was not in general against the idea of self-empowerment
 we just did it. I barely touched free software before, but my
@@ -68,23 +60,29 @@ and making fundamental mistakes meant to call someone in the
 this harsh take-off also had the effect that my relation to free
 software started with different expectations.[^]{and maybe different
 dissapointments} Different than what seems obvious if you install a
-GNU/Linux Distribution as a replacement for Mac OSX and want it to
+GNU/Linux distribution as a replacement for Mac OS and want it to
 'just work alike'.
 
 My second introduction came from another direction and was less
 harsh but not less influential. At the audio department of the
 Kunsthochschule für Medien Köln Martin Rumori had set up a series
 of seminars around the culture and cult of Unix and GNU/Linux and
-free software in general. It is also within this context where my
-first major project in the field of free software graphic design
-started.
+free software in general. What made me really excited about
+free software was not only its rich history but also the chance to
+examine and experience softwares with  different concepts and
+approaches that are also technically very sophisticated.
 
-In 2007 I created the 'key visual' for the Linux Audio Conference,
-a annual conference of Linux Audio Developers, that was hosted
-at the KHM in early 2008. The 'key visual' was a hyperconnective
-machine/instrument/environment, which was very much inspired by
-the idea that within Linux culture users are encouraged to think
-and make their own applications.
+
+
+It is also within this context that my first major project in the
+field of free software graphic design started.
+
+In 2007 I started to create the 'key visual' for the Linux Audio
+Conference, an annual conference of Linux Audio Developers, that
+was hosted at the KHM in early 2008. The idea was to create a
+hyperconnective machine/instrument/environment, which was very
+much inspired by the idea that within Linux culture users are
+encouraged to think and make their own applications.
 
 % S: PD SCREENSHOT
 
@@ -126,37 +124,44 @@ All these projects are closely connected to free software culture.
 
 % PERSONAL SOFTWARE
 
+% BUT ...
+
 While all source code is published under a free software license
 I actually never expected anyone to reuse these projects 'as
 is'. Why? The software within these projects is very specific and
 not very elaborate. Although the source code is available, it is
 nothing to just download, install and run.[^]{As far as I know}
 
-But it was never my ambition to develop general-purpose software.
+The intention was to have an example, make a point that helps
+to imagine what could be possible. Make and experience and show
+interesting possibilities beside the convenient mononculture
+I became used to when it comes to digital design tools.
+It was never my ambition to develop general-purpose software.
 While I was interested in creating processes and infrastructures
 as part of my work, I was not really interested to make tools for
 a generic set of "users". In this sense it is really _personal
-software_. The intention was to have an example, make a point that
-helps to imagine what could be possible. Make and experience and
-show interesting possibilities beside the convenient mononculture
-I became used to when it comes to digital design tools.
+software_.
 
 
 % TOWARDS SITUATED SOFTWARES
 
-2012 I worked on a project for the Libre Graphics Meeting 2013 at
+2012 I worked on a project for the Libre Graphics Meeting at
 Medialab Prado. The brief was to create a visual identity for the
 meeting, which would reflect and capture voices of the community.
-We developed a online interface, where people could ask or answer
+We developed an online interface, where people could ask or answer
 questions. These conversations were collected and used to generate
 posters to promote the event.
+
+
+
+
 
 
 In 2014 I started together with Constant from Brussels to work on
 the book "I think that conversations are the best, biggest thing
 that Free Software has to offer its user". The book collects
 interviews made  by Constant, over a period of 10 years, all
-connected to the subject of Libre Graphics.  For the book we had
+connected to the subject of Libre Graphics. For the book we had
 the ambition to create a setup that would work different from the
 workflows we were used to. This means different from a standard
 editorial process, were design has to happen after everything else
@@ -189,6 +194,7 @@ of proprietary software. At the same time I'm quite shocked how
 unquestioned something like the Creative CloudTM can happen. But
 that reality of _software as a centralised service_ also helped
 me to think about what maybe makes free software for me exciting.
+
 Could this be a vision of software that is inseparable from doing
 by arguing that all softwares are "situated in activity bound to
 social, cultural and physical contexts"[@XXX]. Softwares that

@@ -37,9 +37,9 @@
      inkscape --export-png=$OUTDIR/${FILENAME}.png \
               ${FILENAME}.tmp.svg > /dev/null 2>&1
 
-     inkscape --export-png=$OUTDIR/description/${FILENAME}.png \
-              --export-area=-1024:0:0:768 \
-              ${FILENAME}.tmp.svg > /dev/null 2>&1
+#    inkscape --export-png=$OUTDIR/description/${FILENAME}.png \
+#             --export-area=-1024:0:0:768 \
+#             ${FILENAME}.tmp.svg > /dev/null 2>&1
 
      inkscape --export-png=$OUTDIR/x2/${FILENAME}.png \
               --export-area=-1024:0:1024:768 \

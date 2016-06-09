@@ -1,14 +1,16 @@
 % INTRODUCTION
 
-Hello.
+% Hello.
+% 
+% I'd like to thank the organisers of this festival for the
+% invitation and you for your attention for the next 25 minutes.
+% 
+% This lecture will be a little bit of history repeating and
+% maybe it can help to give and get some ideas for future
+% perspectives.
 
-I'd like to thank the organisers of this festival for the
-invitation and you for your attention for the next 45 minutes.
 
-For this lecture I decided to try to aproximate the path
-that led to here and maybe this helps to find a perspective
-for future developments.
-
+% Let's start with
 % A SHORT DISCLAIMER:
 % ------------------
 % I'm going to use the term free software not open source,
@@ -18,9 +20,9 @@ for future developments.
 
 ----
 
-Not being among the very first generations of 'users'
-graphical interfaces were part of my first encounters with
-the computer. In general but also as a tool for creation.
+When I started to use computers graphical interfaces were
+already an integral part of a certain concept of usability.
+In general but also for tools for creation.
 
 My first experience with code to create something visual came
 through making HTML pages. The output of WYSIWYG editors[^]{in
@@ -64,15 +66,15 @@ GNU/Linux distribution as a replacement for Mac OS and want it to
 'just work alike'.
 
 My second introduction came from another direction and was less
-harsh but not less influential. At the audio department of the
+rough but not less influential. At the audio department of the
 Kunsthochschule für Medien Köln Martin Rumori had set up a series
 of seminars around the culture and cult of Unix and GNU/Linux and
-free software in general. What made me really excited about
-free software was not only its rich history but also the chance to
-examine and experience softwares with  different concepts and
-approaches that are also technically very sophisticated.
+free software in general.
 
-
+This was a really exciting introduction to free software.
+It meant not only to get an idea about different technical
+concepts and approaches but also about the rich culture and
+history of software practises.
 
 It is also within this context that my first major project in the
 field of free software graphic design started.
@@ -229,14 +231,15 @@ understood."[@haraway:1988:situated]
 
 
 `.mdsh` is an _everyday_ example of 'something situated'. This
-markup dialect that was used for the _Conversations_ book is based
-on the widespread open standard markdown, but allows to extend this
-standard with custom 'instructions'. These 'instructions' are simply
-lines of text that trigger specific actions when translating from
-source code to some other format. It is not something that was
-modelled after some premises, it more or less happened to be.
+markup dialect that was used lately for the _Conversations_ book is
+based on the widespread open standard markdown, but allows to extend
+this standard with custom 'instructions'. These 'instructions' are
+simply lines of text that trigger specific actions when translating
+from source code to some other format. 
 
-% S: MDSH FLOWS
+`.mdsh` as a file format was not developed according to some master plan.
+It started as a small workaround and was used and changed and adjusted
+for different projects. It more or less happened to be.
 
 It is situated as it was developed for a specific group, at a
 specific time, for a specific task. The 'instructions' are not

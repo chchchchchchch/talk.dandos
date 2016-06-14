@@ -1,16 +1,32 @@
- TALK AT THE DAN-D FESTIVAL 2016
- ===============================
 
+ TOWARDS SITUATED SOFTWARES
+ ==========================
+(TALK AT THE DAN-D FESTIVAL 2016)
+ -------------------------------
 
+ After heydays of networked culture we're currently
+ experiencing homogenisation and centralisation
+ across all areas of our digital environments.
 
+ While free/libre/open source software offers an
+ alternative beyond brushed metal and creative clouds
+ it is not the easy answer to complex questions.
 
+ After doing graphic design from within the ecosystem
+ of free/libre/open source culture for some years,
+ it's time again to recapitulate and share experiences.
+ The lecture revisits various projects and tries
+ to situate them towards a practise, where
+ f/l/os might provide the means for radical
+ localisation, empowering partial perspectives
+ and distributed responsibilities. 
 
+ -------------------------------------------------------------
 
  Images at src/non-free/* are copied
- for here for presentation purposes only.
+ here for presentation purposes only.
  
  ALL RIGHTS RESERVED TO THEIR RESPECTIVE AUTHORS!
-
 
  -------------------------------------------------------------
   COPYRIGHT (C) 2016 Christoph Haag
@@ -58,3 +74,5 @@
  IS COPYRIGHTED ACCORDING TO ITS RESPECTIVE OWNERS. 
 
  E N J O Y !
+
+
